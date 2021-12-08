@@ -35,7 +35,7 @@ The Users of the Software is capable of: <br>
 * Any Window based Operating System
 <hr>
 <h2>Functional Requirements:-</h2>
-1) Student Information Maintenance: Information of the student like Student Name, Student Roll Number and Student Contact will be maintained by the system.
-2) Marks Information Management: The Marks of the Student along with the Subjects will be maintained by the System.
-3) Result Generation: The System will be able to generate the result containing Student Details, Marks of the Student in his respective subjects.
-4) The system will be able to maintain the security and prevent unauthorized access by maintaining the user_id and passwords of every individual.
+1) Student Information Maintenance: Information of the student like Student Name, Student Roll Number and Student Contact will be maintained by the system. <br>
+2) Marks Information Management: The Marks of the Student along with the Subjects will be maintained by the System. <br>
+3) Result Generation: The System will be able to generate the result containing Student Details, Marks of the Student in his respective subjects. <br>
+4) The system will be able to maintain the security and prevent unauthorized access by maintaining the user_id and passwords of every individual. <br>
