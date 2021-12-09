@@ -1,5 +1,5 @@
 <h1> Student Result Management System </h1>
-The Software is capable of maintaining and generating Student's Result at the end of a semester after the teacher's have provided the respective marks. <br>
+This is a CLI based software where the Software is capable of maintaining and generating Student's Result at the end of a semester after the teacher's have provided the respective marks. <br>
 The following things are required in the system for the proper functioning of the software. <br>
 
 ```
