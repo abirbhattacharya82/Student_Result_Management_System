@@ -36,7 +36,7 @@ CREATE TABLE `student_result_management_system`.`user_db` (
   `user_password` VARCHAR(45)
 );
 ```
-<b>Step 3</b>: Download the [MySQL JAVA Connector]() if you don't have it and put it in <b>Java\jre1.8.0_201\lib\ext</b> folder in your system. <br>
+<b>Step 3</b>: Download the [MySQL JAVA Connector](https://github.com/abirbhattacharya82/Student_Result_Management_System/raw/main/assets/mysql_connector_driver/mysql-connector-java-8.0.26.jar) if you don't have it and put it in <b>Java\jre1.8.0_201\lib\ext</b> folder in your system. <br>
 <b>Step 4</b>: Clone this Repository using the following link
 ```
 https://github.com/abirbhattacharya82/Student_Result_Management_System.git
