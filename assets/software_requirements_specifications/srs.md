@@ -32,7 +32,7 @@ The Users of the Software is capable of: <br>
 * Appropriate drivers are needed. <br>
 *  Screen Resolution of atleast 852 X 480 px for proper viewing. <br>
 <h2> Software Interfaces:- </h2>
-* Any Window based Operating System
+* Any Window based Operating System or CLI based Operating System
 <hr>
 <h2>Functional Requirements:-</h2>
 1) Student Information Maintenance: Information of the student like Student Name, Student Roll Number and Student Contact will be maintained by the system. <br>
