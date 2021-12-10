@@ -8,12 +8,11 @@ JDK 17
 MySQL 8
 ```
 <h1>Index</h1>
-<ul>
-<li>Driver File</li>
-<li>Data Flow Diagram</li>
-<li>Software Requirement Specifications</li>
-<li> [MySQL JAVA Connector](https://github.com/abirbhattacharya82/Student_Result_Management_System/raw/main/assets/mysql_connector_driver/mysql-connector-java-8.0.26.jar) </li>
-</ul>
+<a href="Main.java">Driver File</a><br>
+<a href="assets/data_flow_diagram">Data Flow Diagram</a><br>
+<a href="assets/software_requirements_specifications/srs.md">Software Requirement Specifications</a><br>
+<a href="https://github.com/abirbhattacharya82/Student_Result_Management_System/raw/main/assets/mysql_connector_driver/mysql-connector-java-8.0.26.jar">MySQL JDBC Driver</a><br>
+
 <h1>User Manual</h1>
 To properly run the software perform the following steps: <br>
 <b>Step 1</b>: Create a New MySQL connection and name it <b>student_result_management_system</b>. If the server is <b>not in the local host</b> or your username is not <b>root</b> or password is not <b>admin</b>, change the following things on line numbers <b>11, 35, 66, 102, 128</b>:
